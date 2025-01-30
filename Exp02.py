@@ -41,6 +41,8 @@ class Employee:
 if __name__ == '__main__':
     firstEmployee = Employee ()
     secondEmployee = Employee (designation="Manager",frontend=True,backend=False)
+
+    firstEmployee.printData()
     secondEmployee.printData()
 
     # Call the method here to display output.
