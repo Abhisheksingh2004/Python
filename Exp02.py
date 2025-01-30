@@ -40,7 +40,7 @@ class Employee:
 
 if __name__ == '__main__':
     firstEmployee = Employee ()
-    secondEmployee = Employee (designation="",frontend=True,backend=False)
-    print(secondEmployee.printData())
+    secondEmployee = Employee (designation="Manager",frontend=True,backend=False)
+    secondEmployee.printData()
 
     # Call the method here to display output.
