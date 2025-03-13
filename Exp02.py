@@ -1,11 +1,4 @@
-  {
-   "cell_type": "markdown",
-   "id": "996bfca3-da7f-4831-8b14-1174fdef77f3",
-   "metadata": {},
-   "source": [
-    "### Abhishek Singh (Roll No 57)"
-   ]
-  }
+# ABHISHEK SINGH (57)
 
 '''
 General case represents that developer working on 
